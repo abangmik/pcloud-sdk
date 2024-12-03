@@ -6,7 +6,7 @@ Welcome to the Pcloud SDK Guide! This repository provides essential information 
 
 ## Discover More
 
-Are you looking for a powerful solution to enhance your JavaScript projects? The Pcloud SDK is your answer! For a detailed exploration of its features and how to get started, visit [this link](https://blog.moddereducation.com/2024/12/discover-pcloud-sdk-free-storage-for.html).
+Are you looking for a powerful solution to enhance your JavaScript projects? The Pcloud SDK is your answer! For a detailed exploration of its features and how to get started, visit [the documentation](https://blog.moddereducation.com/2024/12/discover-pcloud-sdk-free-storage-for.html).
 
 ## Closing
 
